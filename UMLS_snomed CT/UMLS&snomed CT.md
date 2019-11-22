@@ -12,6 +12,10 @@ UMLS由下列组件构成：
 《UMLS及其在智能检索中的应用》
 http://manu44.magtech.com.cn/Jwk_infotech_wk3/article/2012/1003-3513/1003-3513-28-4-1.html
 
+UMLS有两个最主要特征：
+一是规范医学用语，将概念的不同表达方式进行同义规范。
+二是通过分析概念的内涵和外延，建立概念间的上位一下位(分一属)及相关关系。UMLS虽然在一定程度上表示了医学专业知识，但它仅仅是一个建立在分类体系上的一个概念层次结构，也就是说UMLS建立了一个医学术语体系．以及部分术语间的关系，而并没有利用这些术语来描述医学事实。
+
 #### SNOMED CT
 Systematized Nomenclature of Medicine - Clinical Term的缩写，全称是医学系统化命名-临床术语
 
