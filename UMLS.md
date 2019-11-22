@@ -17,7 +17,7 @@ UMLS由下列组件构成：
 - SPECIALIST Lexicon，中文称为专家辞典或专家词典，是一个词典信息数据库，供自然语言处理工作使用；
 - Lexical Tools， 许多支持性的软件工具。
 
-![1574255213834](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1574255213834.png)
+![]https://github.com/CATatPKU/Dictionary_research/blob/master/image/Humi_1.png
 
 
 
