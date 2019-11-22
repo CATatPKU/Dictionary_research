@@ -2,7 +2,7 @@
 ## 呈现形态和交互模式
 SNOMED CT浏览器提供浏览和查询医学术语集的方法，它默认Google Chrome运行，使用IE浏览器可能会造成错误。同时它还提供了REST API,但官网提示在医疗卫生生产系统中滥用API可能导致封号。
 
-![browser]("")
+![browser]("https://github.com/chiris-ye/Dictionary_research/blob/master/image/browser.PNG")
 
 我们可以看到，SNOMED CT浏览器提供了国际版和成员国版的医学术语集，因为中国并未参与SNOMED CT，我们在利用SNOMED CT进行翻译时应选择国际版进行查询。
 
