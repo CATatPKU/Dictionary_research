@@ -57,8 +57,8 @@ UMLS由下列组件构成：
 
 ***\*超级叙词表\****构建于上百种的电子版源词表，如《医学主题词表》(MedicalSubjectHeadings，MeSH或MSH)t4]、《医学系统化术语表——临床术语》(Systematized Nomenclature of Medicine—Clinical Terms，SNOMEDCT)L5J等。
 
-（图1）
-![image]()
+
+![image](https://github.com/Sylvia5250/Dictionary_research/blob/master/image/syl_pics/111.png)
 
 
 CPT 通用过程术语
@@ -87,8 +87,9 @@ SNOMED CT 临床医学命名系统
 
 此外，超级叙词表中还记录了这些概念的定义、概念间的关系类型、概念的语义类型等重要信息，对这些信息所进行的定量统计分析结果，可用于建设知识组织体系等多种应用中。例如，可结合源词表的学科覆盖率、生物医学文献匹配度、学科领域、编著机构、更新频率、获取途径等其他信息进行医学词表评价，以满足具体应用。
 
-（应用图片2，3）
+![image](https://github.com/Sylvia5250/Dictionary_research/blob/master/image/syl_pics/222.png)
 
+![image](https://github.com/Sylvia5250/Dictionary_research/blob/master/image/syl_pics/333.png)
 
 
 #### 2. 语义网络
