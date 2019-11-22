@@ -1,4 +1,9 @@
-# SNOMED CT
+# SNOMED CT (Systematized Nomenclature of Medicine -- Clinical Terms）
+### 概述
+SNOMED CT是广泛的临床术语，由SNOMEDRT®(reference terminology)和英国国家卫生服务（NHS）临床术语(readcodes)于2002年合并，扩展和重组形成。它提供英语（或任何语言）最全面的临床词汇。其用途也从最初满足以病理学术语为主体内容的分类和检索扩展为能够满足信息化时代临床信息系统的检索、数据汇聚、分析和交互共享。
+SNOMED CT在医疗保健信息技术标准小组制定的互操作性规范中已被指定为电子健康信息交换的美国标准。并且已被美国联邦政府通过综合健康信息学（CHI）计划采用，用于多个临床领域。2007年4月，国际卫生术语标准制定组织（International Health Terminology Standards Development Organization,IHTSDO）收购了SNOMED CT。自2007年以来，成员国的数量已从9个增加到29个。（无中国）IHTSDO的成员可以是国家政府的机构，也可以是由其所代表的国家/地区中适当的国家政府机构认可的其他机构（例如公司或区域政府机构）。成员国承诺在其管辖范围内传播IHTSDO术语，包括在适当情况下创建本地翻译。
+
+
 ## 呈现形态和交互模式
 SNOMED CT浏览器提供浏览和查询医学术语集的方法，它默认Google Chrome运行，使用IE浏览器可能会造成错误。同时它还提供了REST API,但官网提示在医疗卫生生产系统中滥用API可能导致封号。
 
