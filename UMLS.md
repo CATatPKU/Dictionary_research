@@ -17,7 +17,7 @@ UMLS由下列组件构成：
 - SPECIALIST Lexicon，中文称为专家辞典或专家词典，是一个词典信息数据库，供自然语言处理工作使用；
 - Lexical Tools， 许多支持性的软件工具。
 
-![]https://github.com/CATatPKU/Dictionary_research/blob/master/image/Humi_1.png
+![](https://github.com/CATatPKU/Dictionary_research/blob/master/image/Humi_1.png)
 
 
 
@@ -107,7 +107,7 @@ SNOMED CT 临床医学命名系统
 
 语义类型的高层分为“实体”和“事件”两大类，由此逐级展开形成树形结构，最深可达6级
 
-![1574254625560](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1574254625560.png)
+![](https://github.com/CATatPKU/Dictionary_research/blob/master/image/Humi_2.png)
 
 
 
@@ -116,7 +116,7 @@ SNOMED CT 临床医学命名系统
 - 等级关系链：语义类型和语义关系树形结构中的等级关系，具有继承性，当语义类型与继承的子类发生冲突时，此时连接会被阻断。
 - 相关关系链：物理上相关、空间上相关、功能上相关、时间上相关、概念上相关，并依次细分。
 
-![1574254869744](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1574254869744.png)
+![](https://github.com/CATatPKU/Dictionary_research/blob/master/image/Humi_3.png)
 
 语义类型之间的关系表示一种可能、允许的关系，并非所有关系存在于两个特定概念对之间。如“治疗”虽然是语义类型“药用物质”和“疾病或综合征”之间存在的有效关系，但对于某种专指的药物如“青霉素”来说，就不能用于治疗某个专指的疾病，如“艾滋病”。
 
