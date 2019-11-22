@@ -20,3 +20,32 @@ SNOMED CT（Systematized Nomenclature of Medicine -- Clinical Terms，医学系�
 - 概念表
 - 描述表
 - 关系表
+
+概念和描述：每个唯一性数字型代码、唯一性名称（全称，即Fully Specified Name）和描述（包括一条首选术语和一条或多条同义词）所指定的基本含义单位。 SNOMED CT不再使用词条表的方式对术语进行表示，而是采用概念的形式。概念以理解为医学中标准的临床术语，每个概念都有唯一的概念码，但每一个概念都可能有多个描述，并且由993420条描述形成了庞大的描述表——我们可以理解成同义词表。如“Pain in throat”（咽喉痛），在SNOMED CT中是概念，而在实际应用中，它将会有多种不同的术语表达，如“Sore throat”、“Throat pain”、“Pain in pharynx”、“Throat discomfort”、“Pharyngeal pain”、“Throat soreness”，但它们并不是概念，而只作为描述被收集在描述表中。每一条概念有若干描述与之对应，描述表中的每一条描述也有与之相对应的概念存在。
+
+SNOMED CT 中共有3种术语描述类型，即“指定全称”（Fully Specified Name，FSN）、“首选术语”（Preferred）及“同义术语”（Acceptable）。每个概念都有一个“指定全称”和一个“首选术语”，同义术语是除去首选术语外，其他能够描述FSN所描述概念的术语.
+例子：
+概念 Myocardial infraction 22298006
+规范化全称：Myocardial infraction(disorder) DescriptionID 751689013
+首选术语：Myocardial infraction DescriptionID 37436014
+同义词：Cardiac infarction DescriptionID 37442013
+同义词：Heart attack DescriptionID 37443015
+同义词：Infarction of heart DescriptionID 37441018
+
+关系：用于在同一层级结构之内或不同层级结构之间将不同的概念联系起来。 SNOMED CT中的概念与概念间是有一定“关系”存在的。概念有36万条，但关系有近146万条。这种基于概念间的语义关系令数据的获取充分可靠。在SNOMED CT中，关系分为两种: IS-A关系与属性关系。
+
+IS-A在同一个层面中，表示某些概念间的关系。如关节炎属于关节系统疾病，而关节系统疾病属于骨科疾病，这样关节炎→关节系统疾病→骨科疾病就形成了一种IS-A关系;
+
+属性关系表示跨层面的概念间的关系。
+例子：
+“阑尾炎”是一种疾病，但从形态学上看，“阑尾炎”属于炎症的一种，在属性关联中，可由“阑尾炎”引导出“炎症”。
+
+attribute（属性）关系
+
+临床发现 手术/操作 事件 身体结构 药物/生物 制品、设备、标本等各类概念均有其特有的属性
+
+临床发现：发现的部位、形态学表现、与其他（如原因）的关系、严重度、临床进程等
+
+手术/操作：手术部位，手术目标部位，手术方法，手术路径，手术用药，优先度
+
+
