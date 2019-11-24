@@ -177,6 +177,191 @@ Washington University Law Review, *Liability of Accommodation Indorser*
 元照
 ![16](./image/clule/16.jpg)
 可以很清楚的看出该词在法律领域的用法和来源。
+
+### 医学方向
+####纸质版
+
+####在线词典
+1. English-Chinese Medical Dictionary 英汉医学词典
+http://esaurus.org/references/
+![1](../image/kx/1.PNG)
+来源：
+- 网上资源：在线刊物和文献数据库
+- 全科英汉医学词典
+特点： 
+- 英汉双解
+- 类词推荐
+- 收录词条比较少
+![2](../image/kx/2.PNG)
+
+2. Medical Dictionary
+https://www.online-medical-dictionary.org/
+来源：
+- 40,000 publicly available dictionaries
+- encyclopedias
+ - research articles & books
+ 特点：
+ - 英语解释
+ - 同义词推荐
+ - 提供相关词条跳转链接
+ ![3](../image/kx/3.PNG)
+
+ 3. NCI Dictionaries
+ https://www.cancer.gov/publications/dictionaries
+ 特点：
+- 包含三个大类
+  1. NCI Dictionary of Cancer Terms
+  2. NCI Dictionary of Genetics Terms
+  3. NCI Drug Dictionary
+- 每月更新
+- 提供搜索插件，用户可以把该插件加到自己的网页上
+- 两种搜索模式：starts with 和 Contains
+![5](../image/kx/5.PNG)
+
+4. Concise Medical Dictionary
+https://www.oxfordreference.com/view/10.1093/acref/9780199557141.001.0001/acref-9780199557141
+牛津大学出版 
+特点：
+- 首字母排序查询
+- 12000个词条
+- 需要注册登录才能使用
+![6](../image/kx/6.PNG)
+
+5. MedTerms Medical Dictionary
+https://www.medicinenet.com/medterms-medical-dictionary/article.htm
+特点： 提供深度字母表查询方式来帮助用户查询难以拼写和容易错拼的词汇。
+![7](../image/kx/7.PNG)
+
+6. Medical Dictionary
+https://medical-dictionary.thefreedictionary.com/
+来源：The American Heritage® Stedman's Medical Dictionary
+特点：
+提供所查结果不同格式的学术引用
+https://medical-dictionary.thefreedictionary.com/_/cite.aspx?url=https%3A%2F%2Fmedical-dictionary.thefreedictionary.com%2Faberrant&word=aberrant&sources=wkMed,Segen,wkHP,hcMed,wkDen
+
+![8](../image/kx/8.PNG)
+一个例子：
+![9](../image/kx/9.PNG)
+![10](../image/kx/10.PNG)
+#### 纸质版
+
+##### 英汉医学综合性词典
+-  《英汉医学词典》 
+人民卫生出版社,1979年版,1991年新版 
+此书共收词汇75余条，其中医学词汇6万余条,常用普通词汇1万余条。这本词典的特点是医学专业词汇和常用普通词汇兼收，读者基本上可通过这本词典(不用普通英汉词典)解决专科性不是很强的医学英语的阅读和翻译问题，它对医学生和粗懂英语的医药卫生工作者特别适用。但相对来说，这本词典的纯医学专业词汇就显得少了些，因此这本词典的几位编者又编写了一本《实用英汉医学词汇》(上海科学技术出版社，1990年版)，以弥补《英汉医学辞典》专业词汇的不足，这本词典共收专业词汇2万余条。
+
+- 《实用英汉医学词汇》
+上海科学技术出版社，1990年版
+用以弥补《英汉医学辞典》纯医学专业词汇不足的问题，这本词典共收专业词汇2万余条。
+
+- 《汉英医学大词典》 
+人民卫生出版社，1987年版
+此书由出版社集中全国17个医疗，出版、教育单位的人才编写而成，全书收词达14万条，是我国汉英医学词典之最。内容包括中西医、中西药，药械等应有尽有，是一本较好的医学汉译英的工具书。市场供不应求，前不久已重印。
+
+- 《新英汉医学大辞典》
+    中外出版社1976年
+
+- 《白氏英汉医学辞典》
+南山堂出版社1984年
+
+- 《英汉医学常用词汇》
+1976年商务印书馆
+
+- 《图解医学英汉、汉英辞典》
+国际文化亊业有限公司1984年
+
+-  《英汉医学双解词典》
+1990年11月人民卫生出版社根据牛津大学出版社编译
+
+##### 医学专科词典
+- 《英汉病毒学词汇》
+1985年天津科学技术出版社
+-《病毐名称》
+1979年科学出版社
+
+- 《英汉临床放射学词汇》
+1983年福建科学技术出版社
+
+- 《英汉医疗器械词汇》
+1985年山东科学技术出版社
+
+- 《英汉免疫学名词汇编》
+1975年广西人民出版社
+
+- 《英汉精神病学词汇》
+1981年人民卫生出版社
+
+- 《英汉耳鼻喉科学词汇》
+1982年版
+
+- 《英汉预防医学词汇》
+1985年版
+
+- 《英汉药学词汇》
+人民卫生出版社1984年
+
+- 《进口药物手册》
+江西科学技术出版社1986年出版
+- 《新药手册》
+1991年天津科学技术出版社出版
+
+- 《实用临床新药手册》
+1993年中国医药科学技术出版社出版
+
+- 《新汉英医药学词汇》
+1993年黑龙江科学技术出版社出版的
+
+##### 缩略语词典
+- 《英汉科技缩略语大辞典》 
+中国展望出版社，1991年版)收词12万条,是目前我国科技缩略语词典中最大的。
+- 《英汉医学缩 略语词典》 1983年黑龙江人民出版社的更适合医学界使用，它有34 000余条医学缩略语。
+- 《英汉医药学缩略语词汇》1987年吉林科学技术出版社
+- 《英汉医学略语词典》1982年广东科学技术出版社
+- 《简明英汉医学缩略语词典》 1982年科学技术文献出版社重庆版
+- 《医学英语略语词汇》1983年人民出版社的
+- 《现代英汉医学药学卫生学略语词典》1990年4月北京科学技术出版社
+
+##### 中医药方面
+- 《英汉实用中医药大全》高教出版社90年代出版
+- 《英汉对照实用中医文库》上海中医学院出版社1990年出版
+  
+##### 药物读音
+- 《常用药物读音与应用手册》1982年广东科技出版社
+#### 新词
+- 《英汉医学新词汇》 如要查找医学新词可参考1991年上海科学技术出版社
+#### 短语
+- 《医用英语短语词典》1992年天津科技翻译出版公司
+
+### 计算机方向
+1. Tech Terms
+https://techterms.com/
+![11](../image/kx/11.PNG)
+提供
+每日一词
+特点：
+![12](../image/kx/12.PNG)
+高级检索功能可以在定义中搜索所查词汇。
+
+![13](../image/kx/13.PNG)
+![14](../image/kx/14.PNG)
+提供网页搜索功能。
+![15](../image/kx/15.PNG)
+
+2. Computer Hope
+https://www.computerhope.com/jargon.htm
+1500+词条
+今日词条推荐
+
+![16](../image/kx/16.PNG)
+
+3. Webopedia
+https://www.webopedia.com/
+Webopedia: Online Tech Dictionary for Students, Educators and IT Professionals
+![17](../image/kx/17.PNG)
+支持从类别入手查询
+![18](../image/kx/18.PNG)
+
+
 ## UMLS 一体化医学语言系统
 
 
