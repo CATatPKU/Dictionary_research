@@ -179,12 +179,12 @@ Washington University Law Review, *Liability of Accommodation Indorser*
 可以很清楚的看出该词在法律领域的用法和来源。
 
 ### 医学方向
-####纸质版
+#### 纸质版
 
-####在线词典
+#### 在线词典
 1. English-Chinese Medical Dictionary 英汉医学词典
 http://esaurus.org/references/
-![1](../image/kx/1.PNG)
+![1](./image/kx/1.png)
 来源：
 - 网上资源：在线刊物和文献数据库
 - 全科英汉医学词典
@@ -192,7 +192,7 @@ http://esaurus.org/references/
 - 英汉双解
 - 类词推荐
 - 收录词条比较少
-![2](../image/kx/2.PNG)
+![2](./image/kx/2.png)
 
 2. Medical Dictionary
 https://www.online-medical-dictionary.org/
@@ -204,7 +204,7 @@ https://www.online-medical-dictionary.org/
  - 英语解释
  - 同义词推荐
  - 提供相关词条跳转链接
- ![3](../image/kx/3.PNG)
+ ![3](./image/kx/3.png)
 
  3. NCI Dictionaries
  https://www.cancer.gov/publications/dictionaries
@@ -216,7 +216,7 @@ https://www.online-medical-dictionary.org/
 - 每月更新
 - 提供搜索插件，用户可以把该插件加到自己的网页上
 - 两种搜索模式：starts with 和 Contains
-![5](../image/kx/5.PNG)
+![5](./image/kx/5.png)
 
 4. Concise Medical Dictionary
 https://www.oxfordreference.com/view/10.1093/acref/9780199557141.001.0001/acref-9780199557141
@@ -225,12 +225,12 @@ https://www.oxfordreference.com/view/10.1093/acref/9780199557141.001.0001/acref-
 - 首字母排序查询
 - 12000个词条
 - 需要注册登录才能使用
-![6](../image/kx/6.PNG)
+![6](./image/kx/6.png)
 
 5. MedTerms Medical Dictionary
 https://www.medicinenet.com/medterms-medical-dictionary/article.htm
 特点： 提供深度字母表查询方式来帮助用户查询难以拼写和容易错拼的词汇。
-![7](../image/kx/7.PNG)
+![7](./image/kx/7.png)
 
 6. Medical Dictionary
 https://medical-dictionary.thefreedictionary.com/
@@ -239,10 +239,10 @@ https://medical-dictionary.thefreedictionary.com/
 提供所查结果不同格式的学术引用
 https://medical-dictionary.thefreedictionary.com/_/cite.aspx?url=https%3A%2F%2Fmedical-dictionary.thefreedictionary.com%2Faberrant&word=aberrant&sources=wkMed,Segen,wkHP,hcMed,wkDen
 
-![8](../image/kx/8.PNG)
+![8](./image/kx/8.png)
 一个例子：
-![9](../image/kx/9.PNG)
-![10](../image/kx/10.PNG)
+![9](./image/kx/9.png)
+![10](./image/kx/10.png)
 #### 纸质版
 
 ##### 英汉医学综合性词典
@@ -335,31 +335,31 @@ https://medical-dictionary.thefreedictionary.com/_/cite.aspx?url=https%3A%2F%2Fm
 ### 计算机方向
 1. Tech Terms
 https://techterms.com/
-![11](../image/kx/11.PNG)
+![11](./image/kx/11.png)
 提供
 每日一词
 特点：
-![12](../image/kx/12.PNG)
+![12](./image/kx/12.png)
 高级检索功能可以在定义中搜索所查词汇。
 
-![13](../image/kx/13.PNG)
-![14](../image/kx/14.PNG)
+![13](./image/kx/13.png)
+![14](./image/kx/14.png)
 提供网页搜索功能。
-![15](../image/kx/15.PNG)
+![15](./image/kx/15.png)
 
 2. Computer Hope
 https://www.computerhope.com/jargon.htm
 1500+词条
 今日词条推荐
 
-![16](../image/kx/16.PNG)
+![16](./image/kx/16.png)
 
 3. Webopedia
 https://www.webopedia.com/
 Webopedia: Online Tech Dictionary for Students, Educators and IT Professionals
-![17](../image/kx/17.PNG)
+![17](./image/kx/17.png)
 支持从类别入手查询
-![18](../image/kx/18.PNG)
+![18](./image/kx/18.png)
 
 
 ## UMLS 一体化医学语言系统
