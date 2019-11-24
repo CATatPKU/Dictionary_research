@@ -10,11 +10,11 @@
 
     缺点：单语；众包质量无法保证
 
-![3](./image/clule/3.PNG)
+![3](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/3.PNG)
 
 - SCIdict：www.scidict.org/
 
-![2](./image/clule/2.PNG)
+![2](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/2.PNG)
   
     专为学术研究人员以及技术专家设计的中英专业术语搜索词典,致力于为细分专业领域的翻译提供参照,并同时促进各行各业人士的专业英语学习进阶。其中包括科学、生物医学、己写、化学、信息科学、商业、人文几个领域。
 
@@ -29,7 +29,7 @@
 - 投资百科 investopedia：https://www.investopedia.com/financial-term-dictionary-4769738
 
     1999年创立的美国网站，专注投资金融教育。网站有投资、教育、市场、金融咨询、字典等几个板块。字典板块可以查询金融词汇，通过字母索引检索。同时会在字典首页推送金融方向的每日1词。每个词条除了解释还会包括如何理解、词汇辨析、局限性、举例等等内容，为使用者带来很大便利。
-![14](./image/clule/14.PNG)
+![14](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/14.PNG)
 
     优点：免费；词条全面；解释详细；界面清晰；较权威
 
@@ -39,9 +39,9 @@
 - Herold Financial Dictionary ：https://www.financial-dictionary.info/
   
   Herald金融在线词典，拥有Accounting, Banking, Corporate Finance, Economics, Investments Laws & Regulations, Real Estate, Retirement, Trading几个板块，此外可通过字母索引进行搜索，或者直接查看所有词条。另外，还可以检索英文简写，例如：ARM--Adjustable Rate Mortgage
-![4](./image/clule/4.PNG)
+![4](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/4.PNG)
   Herald Dictionary 同时拥有纸质版本，分为Basic Edition, Accounting, Banking, Corporate Finance, Economics, Investments, Laws&Regulations, Real Estate, Retirement, Trading几本，可以在亚马逊购买。
-![5](./image/clule/5.PNG)
+![5](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/5.PNG)
   优点：免费；界面简洁清晰；索引清晰；词条解释详细
 
   缺点：词条较少；主要还是一个纸质版本的节选
@@ -53,14 +53,14 @@
     优点：老牌权威；索引清晰；收录多，条目全；
 
     缺点：收费，需要订阅
-![6](./image/clule/6.PNG)
+![6]https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/6.PNG)
 
 - Investing Answers https://investinganswers.com/financial-dictionary
 
     一个金融咨询网站，提供金融方面的服务。但同时也提供投资、贷款、信用卡、抵押、银行、保险等相关的术语词汇解释。同时可以看出每一个标题下包含多少个条目。
 
     优点：免费；权威性较高；集成多个领域；界面清晰；搜索结果清晰、有自己的逻辑，还有举例说明
-![7](./image/clule/7.PNG)
+![7]https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/7.PNG)
 
 
     缺点：条目仅仅按字母罗列，不便于搜索
@@ -72,7 +72,7 @@
     优点：免费；专人筛选，权威性高；搜索结果会推荐县官条目
     
     缺点：条目内容较为简短；实际内容收录并不是很多
-![8](./image/clule/8.PNG)
+![8](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/8.PNG)
 
 - http://www.finance-glossary.com/
   
@@ -81,7 +81,7 @@
   优点：简介，直奔主题
   
   缺点：条目少，解释简短，仅仅使用原始的表格形式维护。
-![9](./image/clule/9.PNG)
+![9](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/9.PNG)
 
 
 
@@ -95,7 +95,7 @@
 - Dictionary of Finance and Investment Terms
 - Dictionary of Insurance Terms 
   
-![1](./image/clule/1.PNG)
+![1](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/1.PNG)
 
 1. 高盛银行财经词典
 2. 英汉路透金融词典
@@ -109,9 +109,9 @@ safe haven其实是一个比较常用的金融词汇，一般词典都能查到�
 很清晰解释了这个词的涵义，就是在其他投资贬值的时候买的用来保值的东西。
 但对比investopedia专业词典的解释
 
-![22](./image/clule/22.PNG)
+![22](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/22.PNG)
 
-![23](./image/clule/23.PNG)
+![23](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/23.PNG)
 
 拥有What is a Safe Haven?Understanding Safe Havens；Examples of Safe Havens；Safe Haven Currencies；Considerations When Searching for Safe Havens 好几个模块。
 
@@ -120,7 +120,7 @@ safe haven其实是一个比较常用的金融词汇，一般词典都能查到�
 国内：
 
 - 元照英美法词典-app，可以在欧陆词典中下载使用：English-Chinese Dictionary of Anglo-American Law
-![15](./image/clule/15.PNG)
+![15](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/15.PNG)
     集成潘汉典教授等学者组织编写法律出版社出版的《元照英美法辞典》纸质版。编译者权威，同游5万余词条。词条注明了词源和用法
 
     优点：双语；专家修订、权威；词条丰富；英到中解释全面
@@ -132,11 +132,11 @@ safe haven其实是一个比较常用的金融词汇，一般词典都能查到�
     这个网站并不是官方网站，但基于布莱克法律大辞典第二版（由于其版权已经过期，可以公共访问），但使用者可以通过联系管理人员申请增加词条。现在收录30000条以上相关词汇。
 
     优点：权威性高；拥有移动版本；搜索结果包含词条来源
-![13](./image/clule/13.PNG)
+![13](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/13.PNG)
     缺点：界面不清晰，入口难找，搜索框在最下；词条解释较短
 
 - 韦氏法律词典： https://www.merriam-webster.com/legal
-![11](./image/clule/11.PNG)
+![11](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/11.PNG)
     收录超过10000个法律词汇，拥有清晰、简洁的解释，词条由韦氏词典编撰的专业人士筛选。此外，韦氏词典的网页版会根据查询词汇的不同有各种链出，例如：比较相似词汇、像韦氏其他词典链接以获得更详细解释，方便用户对查询词汇更深的理解。
 
     优点：免费；界面简洁，并可以同时看到在普通韦氏词典中的词条解释；词条全面；老牌权威；每个词不同的相关链接
@@ -146,7 +146,7 @@ safe haven其实是一个比较常用的金融词汇，一般词典都能查到�
 - 牛津法律词典：https://www.oxfordreference.com/view/10.1093/acref/9780199551248.001.0001/acref-9780199551248
   
   牛津法律网络词典2013修订版，收录了4200个法律词条。被誉为the best law dictionary’ and ‘excellent for non-law students as well as law undergraduates’。通过字母索引组织，此外词条解释还包括词条来源信息。
-![12](./image/clule/12.PNG)
+![12](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/12.PNG)
     优点：老牌权威；词条全面；界面清晰
     缺点：收费，需要订阅
 
@@ -157,7 +157,7 @@ safe haven其实是一个比较常用的金融词汇，一般词典都能查到�
   优点：界面简介清晰
 
   缺点：词条较少；解释较少
-![10](./image/clule/10.PNG)
+![10](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/10.PNG)
 
 举例：
 
@@ -166,16 +166,16 @@ Washington University Law Review, *Liability of Accommodation Indorser*
 
 这里的instrument和maker都是平常最常见的单词，但是像乐器和制造者这种翻译在这里一看就不适用，首先尝试查找非专业领域在线词典，这里选取剑桥和科林斯词典两个网站：
 
-![17](./image/clule/17.PNG)
+![17](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/17.PNG)
 
-![18](./image/clule/18.PNG)
+![18]https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/18.PNG)
 
 可以看到科林斯词典是从不同语言对这个词的理解出发建的词条；而剑桥词典中确实能找到在法律当中的用法，但是因为法律词条被排在很下面所以很不方便使用，而maker一词又完全找不到相关的解释，说明法律意义收录的并不完善。
 
 接着查找法律专业词典，这里用韦氏和元照词典举例：
-![19](./image/clule/19.PNG)
+![19](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/19.PNG)
 元照
-![16](./image/clule/16.jpg)
+![16](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/16.jpg)
 可以很清楚的看出该词在法律领域的用法和来源。
 
 ### 医学方向
