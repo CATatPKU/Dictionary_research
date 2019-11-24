@@ -53,14 +53,14 @@
     优点：老牌权威；索引清晰；收录多，条目全；
 
     缺点：收费，需要订阅
-![6]https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/6.PNG)
+![6](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/6.PNG)
 
 - Investing Answers https://investinganswers.com/financial-dictionary
 
     一个金融咨询网站，提供金融方面的服务。但同时也提供投资、贷款、信用卡、抵押、银行、保险等相关的术语词汇解释。同时可以看出每一个标题下包含多少个条目。
 
     优点：免费；权威性较高；集成多个领域；界面清晰；搜索结果清晰、有自己的逻辑，还有举例说明
-![7]https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/7.PNG)
+![7](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/7.PNG)
 
 
     缺点：条目仅仅按字母罗列，不便于搜索
@@ -120,7 +120,7 @@ safe haven其实是一个比较常用的金融词汇，一般词典都能查到�
 国内：
 
 - 元照英美法词典-app，可以在欧陆词典中下载使用：English-Chinese Dictionary of Anglo-American Law
-![15](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/15.PNG)
+![15](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/15.jpg)
     集成潘汉典教授等学者组织编写法律出版社出版的《元照英美法辞典》纸质版。编译者权威，同游5万余词条。词条注明了词源和用法
 
     优点：双语；专家修订、权威；词条丰富；英到中解释全面
@@ -168,7 +168,7 @@ Washington University Law Review, *Liability of Accommodation Indorser*
 
 ![17](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/17.PNG)
 
-![18]https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/18.PNG)
+![18](https://github.com/CATatPKU/Dictionary_research/blob/master/image/clule/18.PNG)
 
 可以看到科林斯词典是从不同语言对这个词的理解出发建的词条；而剑桥词典中确实能找到在法律当中的用法，但是因为法律词条被排在很下面所以很不方便使用，而maker一词又完全找不到相关的解释，说明法律意义收录的并不完善。
 
